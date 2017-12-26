@@ -41,11 +41,11 @@
   </entry>
   
   <entry>
-    <title>Spring Boot 入门</title>
-    <link href="http://riyuetaozi.github.io/2017/12/21/spring-boot1/"/>
-    <id>http://riyuetaozi.github.io/2017/12/21/spring-boot1/</id>
+    <title>Spring Boot 进阶</title>
+    <link href="http://riyuetaozi.github.io/2017/12/21/spring-boot2/"/>
+    <id>http://riyuetaozi.github.io/2017/12/21/spring-boot2/</id>
     <published>2017-12-21T08:04:09.000Z</published>
-    <updated>2017-12-21T02:03:48.122Z</updated>
+    <updated>2017-12-21T09:53:24.863Z</updated>
     
     <content type="html"><![CDATA[<p>SpringBoot的特点<br>1、化繁为简，简化配置<br>2、备受关注，是下一代框架<br>3、微服务的入门级微框架<br>    SpringBoot –&gt; SpringCloud –&gt; 微服务架构<br>    <a id="more"></a>使<!--more-->用intellijidea  编辑器，开发SpringBoot，Maven项目<br>所以需要安装Maven，Java版本使用的是1.8.111，Maven使用的是最新版本3.5.2版本（视频中使用的是Maven3.3.9版本）<br>写一个简单的helloword    </p><p>#这里是正文，用markdown写，你可以选择写一段显示在首页的简介后，加上在之前的内容会显示在首页，之后的内容会被隐藏，当游客点击Read more才能看到。</p>]]></content>
     
@@ -63,11 +63,11 @@
   </entry>
   
   <entry>
-    <title>Spring Boot 进阶</title>
-    <link href="http://riyuetaozi.github.io/2017/12/21/spring-boot2/"/>
-    <id>http://riyuetaozi.github.io/2017/12/21/spring-boot2/</id>
+    <title>Spring Boot 入门</title>
+    <link href="http://riyuetaozi.github.io/2017/12/21/spring-boot1/"/>
+    <id>http://riyuetaozi.github.io/2017/12/21/spring-boot1/</id>
     <published>2017-12-21T08:04:09.000Z</published>
-    <updated>2017-12-21T09:53:24.863Z</updated>
+    <updated>2017-12-21T02:03:48.122Z</updated>
     
     <content type="html"><![CDATA[<p>SpringBoot的特点<br>1、化繁为简，简化配置<br>2、备受关注，是下一代框架<br>3、微服务的入门级微框架<br>    SpringBoot –&gt; SpringCloud –&gt; 微服务架构<br>    <a id="more"></a>使<!--more-->用intellijidea  编辑器，开发SpringBoot，Maven项目<br>所以需要安装Maven，Java版本使用的是1.8.111，Maven使用的是最新版本3.5.2版本（视频中使用的是Maven3.3.9版本）<br>写一个简单的helloword    </p><p>#这里是正文，用markdown写，你可以选择写一段显示在首页的简介后，加上在之前的内容会显示在首页，之后的内容会被隐藏，当游客点击Read more才能看到。</p>]]></content>
     
